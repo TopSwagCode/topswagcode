@@ -4,11 +4,10 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/TopSwagCode/Dotnet.IdentityServer">Dotnet.IdentityServer</a> in my spare time.</li>
-<li>🧐 Leaning about K3S and build my own cluster from scratch </li>
+<li>🧐 Leaning about K3S and build my own cluster from scratch.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/TopSwagCode">Github</a>.</li>
-<li>📝 I rarely write blogposts on <a href="https://topswagcode.com">my blog</a>.</li>
 <li>⚡ I am trying to start a Software development Youtube channel <a href="https://www.youtube.com/channel/UCOb2ob2I2Vu23JNlT5xoFZA/videos">Here :)</a></li>
-<li>💬 Ask me about <strong>Dotnet Core, Serverless, Scalable systems</strong>.</li>
+<li>💬 Ask me about <strong>Dotnet Core, Serverless, Scalable systems or Secure software developement</strong>.</li>
 <li>📙 Check out my <a href="https://www.topswagcode.com/cv/">resume</a>.</li>
 <li>🎉 Fun Fact: I love tabletop games.</li>
 <li>👯 I live with girlfriend and son (2years old) and our 2 cats.</li>
