@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://TopSwagCode.Com/">Joshua Jesper Krægpøth Ryder AKA TopSwagCode</a></h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.broelstaerk.dk/">Brølstærk</a></strong> as a consultant.
+<p>I'm currently a software engineer at <strong><a href="http://www.broelstaerk.dk/">Brølstærk</a></strong> as a consultant.
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
